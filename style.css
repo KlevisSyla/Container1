@@ -1,0 +1,94 @@
+body {
+            
+        }
+
+        header {
+            background-color: black;
+            height: 100px;
+            weight: 80px;
+            
+
+              
+        }
+
+        nav {
+            background-color: darkgrey;
+
+
+        }
+
+        nav a {
+            text-align: left: ;
+            height
+        
+        }
+
+        .container {
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            width: 80px; 
+            height: 100px;
+
+
+        }
+
+        .box {
+            background-color: blue;
+            color:white ;
+            height: 20px;
+            text-align:center ;
+            padding:30px ;
+            border-top: 5px;
+            margin-top: 10px;
+
+        }
+
+        .red-box {
+            background-color:red;
+            color:white ;
+            height: 20px;
+            text-align:center ;
+            padding:30px ;
+            border-top: 5px;
+            margin-top: 10px;
+        }
+
+        .green-box {
+            background-color: green;
+            color:white ;
+            height: 20px;
+            text-align:center ;
+            padding:30px ;
+            border-top: 5px;
+            margin-top: 10px;
+        }
+
+        .blue-box {
+            background-color: blue;
+            color:white ;
+            height: 20px;
+            text-align:center ;
+            padding:30px ;
+            border-top: 5px;
+            margin-top: 10px;
+        }
+		
+		
+		#rollover ul li {
+	
+}
+
+
+#rollover ul li:hover {
+	
+
+}
+		
+		h1{
+            background-color: black;
+            color: white;
+            text-align: center;
+            margin: 15px;
+            padding: 10px;
+            height: 80px;
+        }	
